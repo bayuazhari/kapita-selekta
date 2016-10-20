@@ -26,7 +26,7 @@
 5. Kemudian tambahkan folder atau file yang ingin ditambahkan ke dalam folder kerja anda.
 6. Kemudian tulis git status untuk melihat folder atau file apa saja yang belum ditambahkan ke dalam github.
 7. Kemudian tulis git add serta menulis nama folder atau file yang akan ditambahkan ke github, misalkan : git add doc/kuliah/pertemuan1.md
-8. Kemudian tulis git commit -m “komentar anda” untuk perintah commit.
+8. Kemudian tulis git commit -m â€œkomentar andaâ€ untuk perintah commit.
 9. Setelah itu tulis git push origin master untuk mendorong data yang telah diperbaharui ke github lagi, maka proses pull dan push menggunakan git bash telah selesai.
 
 ## Kesimpulan
@@ -38,9 +38,13 @@ Diharapkan memperhatikan setiap langkah tutorial ini, jika tidak ingin error saa
 Link Github : https://github.com/bayurahmadazhari/kapita-selekta
 
 Nama : Bayu Rahmad Azhari
+
 NPM : 1144125
+
 Kelas : 3C
+
 Prodi : D4 Teknik Informatika
+
 Kampus : Politeknik Pos Indonesia
 
 Link Matakuliah : http://kampus.awangga.net/assignments/kapitaselekta2016
